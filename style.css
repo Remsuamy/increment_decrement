@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrap {
+    text-align: center;
+    background-color: rgb(36, 102, 80);
+    padding: 10px;
+}
+
+.wrap h3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#plus {
+    color: green;
+}
+
+#minus {
+    color: red;
+}
+
+#reset {
+    color: rgb(81, 83, 185)
+}
+
